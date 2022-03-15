@@ -6,7 +6,7 @@
 ## Olá, bem vindo(a)!! 👋
 
 Atualmente sou estudante de Análise e desenvolvimento de sistemas e estagiária de desenvolvimento Full-Stack na Ibm.
-Antes de entrar na ibm, estudava focada no front-end com React, agora durante o estágio, estou estudando React Native, Java com SpingBoot e Kotlin.
+Antes de entrar na ibm, estudava focada no front-end com React, agora durante o estágio, estou estudando React Native.
 
 
 ## 👨🏻‍💻 Sobre mim 
@@ -17,9 +17,8 @@ Antes de entrar na ibm, estudava focada no front-end com React, agora durante o 
 
 ## 🛠 Tech Stack
 
-- 💻  Java | SpringBoot | MySQL | Node
-- 🌐 HTML | CSS | JavaScript | TypeScript | Bootstrap | React | ReactNative 
-- 🔧 Visual Studio Code | Git | Eclipse | Android Studio
+- 🌐 💻 HTML | CSS | JavaScript | TypeScript | React | ReactNative 
+- 🔧 Visual Studio Code | Git | Android Studio
 
 [![EvelynFernanda github stats](https://github-readme-stats.vercel.app/api?username=evelynfernanda&show_icons=true&hide=["contribs","issues"])](https://github.com/EvelynFernanda)
  
