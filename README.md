@@ -5,19 +5,19 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Atualmente sou estudante de Análise e desenvolvimento de sistemas e estagiária de desenvolvimento Full-Stack na Ibm.
-Antes de entrar na ibm, estudava focada no front-end com React, agora durante o estágio, estou estudando React Native.
+Atualmente sou estudante de Análise e desenvolvimento de sistemas e estagiária de desenvolvimento Front-End na Ibm.
+Meu principal objetivo hoje é em evoluir cada vez mais com ReactJS e React Native.
 
 
 ## 👨🏻‍💻 Sobre mim 
 
 - 💕 Amo o mundo da tecnologia, programação, cachorros e doramas
-- ✌🏻 Meus hobbies: Ficar em casa com minha cachorra, comendo pipoca e maratonando alguma série, assistindo um bom filme ou conhecendo algum lugar legal com boa comida!
+- ✌🏻 Meus hobbies: Assistir uma boa serie e sair para conhecer lugares novos.
 
 
 ## 🛠 Tech Stack
 
-- 🌐 💻 HTML | CSS | JavaScript | TypeScript | React | ReactNative 
+- 🌐 💻 HTML | CSS | JavaScript | TypeScript | ReactJs | React Native 
 - 🔧 Visual Studio Code | Git | Android Studio
 
 [![EvelynFernanda github stats](https://github-readme-stats.vercel.app/api?username=evelynfernanda&show_icons=true&hide=["contribs","issues"])](https://github.com/EvelynFernanda)
