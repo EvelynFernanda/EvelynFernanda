@@ -5,14 +5,14 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Atualmente sou estudante de Análise e desenvolvimento de sistemas e estagiária de desenvolvimento Front-End na Ibm.
-Meu principal objetivo hoje é em evoluir cada vez mais com ReactJS e React Native.
+Atualmente sou Software Engineer Trainee na Cheesecake Labs, trabalhando com ReactJs, React Native, Node e Typescript.
+Meu principal objetivo hoje é evoluir cada vez mais nessas tecnologias.
 
 
 ## 👨🏻‍💻 Sobre mim 
 
 - 💕 Amo o mundo da tecnologia, programação, cachorros e doramas
-- ✌🏻 Meus hobbies: Assistir uma boa serie e sair para conhecer lugares novos.
+- ✌🏻 Meus hobbies: Assistir uma boa serie e sair para conhecer lugares novos
 
 
 ## 🛠 Tech Stack
