@@ -5,7 +5,7 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Atualmente sou Software Engineer Trainee na Cheesecake Labs, trabalhando com ReactJs, React Native, Node e Typescript.
+Atualmente sou Software Engineer Trainee na Cheesecake Labs, trabalhando com ReactJs, React Native e Typescript.
 Meu principal objetivo hoje é evoluir cada vez mais nessas tecnologias.
 
 
