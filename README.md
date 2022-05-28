@@ -5,7 +5,7 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Atualmente sou Software Engineer Trainee na Cheesecake Labs, trabalhando com ReactJs, React Native e Typescript.
+Atualmente sou Software Engineer Trainee na Cheesecake Labs, trabalhando com ReactJs, React Native, NodeJs e Typescript.
 Meu principal objetivo hoje é evoluir cada vez mais nessas tecnologias.
 
 
@@ -17,7 +17,7 @@ Meu principal objetivo hoje é evoluir cada vez mais nessas tecnologias.
 
 ## 🛠 Tech Stack
 
-- 🌐 💻 HTML | CSS | JavaScript | TypeScript | ReactJs | React Native 
+- 🌐 💻 HTML | CSS | JavaScript | TypeScript | NodeJs| Express| ReactJs | React Native 
 - 🔧 Visual Studio Code | Git | Android Studio
 
 [![EvelynFernanda github stats](https://github-readme-stats.vercel.app/api?username=evelynfernanda&show_icons=true&hide=["contribs","issues"])](https://github.com/EvelynFernanda)
