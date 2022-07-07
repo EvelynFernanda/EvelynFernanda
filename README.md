@@ -5,7 +5,7 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Atualmente sou Software Engineer na Cheesecake Labs com foco em Front-end, trabalhando com ReactJs, React Native, NodeJs e Typescript.
+Sou Software Engineer na Cheesecake Labs com foco em Front-end, trabalhando com ReactJs, React Native, NodeJs e Typescript.
 Meu principal objetivo hoje é evoluir cada vez mais nessas tecnologias.
 
 
