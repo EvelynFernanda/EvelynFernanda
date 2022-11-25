@@ -5,9 +5,9 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Sou Software Engineer na Cheesecake Labs com foco em Front-end, trabalhando com ReactJs, React Native, NodeJs e Typescript.
-Meu principal objetivo hoje é evoluir cada vez mais nessas tecnologias.
-
+Sou desenvolvedora de software front-end na ACCT Global, apaixonada por tecnologia, além de ser muito curiosa estou sempre pronta para um bom desafio.
+Busco sempre evoluir para além de alcançar meus objetivos pessoais, conseguir ajudar quem está ao meu redor. 
+Apesar de hoje estar trabalhando com front-end estou sempre praticando e estudando um pouco mais sobre back-and com Node com Express e mobile com React Native.
 
 ## 👨🏻‍💻 Sobre mim 
 
