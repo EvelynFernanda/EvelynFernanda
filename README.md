@@ -5,9 +5,7 @@
 
 ## Olá, bem vindo(a)!! 👋
 
-Sou desenvolvedora de software front-end na ACCT Global, apaixonada por tecnologia, além de ser muito curiosa estou sempre pronta para um bom desafio.
-Busco sempre evoluir para além de alcançar meus objetivos pessoais, conseguir ajudar quem está ao meu redor. 
-Apesar de hoje estar trabalhando com front-end estou sempre praticando e estudando um pouco mais sobre back-and com Node com Express e mobile com React Native.
+Sou desenvolvedora fullstack com foco em frontend com React e React Native, apaixonada por tecnologia e sempre em busca de desafios estimulantes. Tenho experiência no desenvolvimento de aplicações web responsivas e de alto desempenho usando React. Além disso, também tenho interesse em desenvolvimento mobile com React Native.
 
 ## 👨🏻‍💻 Sobre mim 
 
